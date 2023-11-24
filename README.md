@@ -147,12 +147,12 @@ $ gcc *.c hsh
 ## Examples
 ```
 $ ./hsh
-(╯°□°)╯︵ ┻━┻ ls
+$ ls
 a.out         built-ins.c    hsh       README.md                 simple_shell.h        strings_functions.c
 built-ins2.c  environment.c  main.c    sf-0119_shell_test_suite  strings_functions2.c  test
-built-ins3.c  holberton      man_page  shell.c                   strings_functions3.c  which
-(╯°□°)╯︵ ┻━┻ 
-(╯°□°)╯︵ ┻━┻ exit
+built-ins3.c  alx      man_page  shell.c                   strings_functions3.c  which
+$
+$ exit
 $  
 ```
 
